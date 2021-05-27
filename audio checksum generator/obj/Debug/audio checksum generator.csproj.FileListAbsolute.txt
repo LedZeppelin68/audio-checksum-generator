@@ -1,0 +1,12 @@
+C:\Users\Андрей\source\repos\audio checksum generator\audio checksum generator\bin\Debug\audio checksum generator.exe.config
+C:\Users\Андрей\source\repos\audio checksum generator\audio checksum generator\bin\Debug\audio checksum generator.exe
+C:\Users\Андрей\source\repos\audio checksum generator\audio checksum generator\bin\Debug\audio checksum generator.pdb
+C:\Users\Андрей\source\repos\audio checksum generator\audio checksum generator\bin\Debug\HashLib.dll
+C:\Users\Андрей\source\repos\audio checksum generator\audio checksum generator\obj\Debug\audio checksum generator.csprojAssemblyReference.cache
+C:\Users\Андрей\source\repos\audio checksum generator\audio checksum generator\obj\Debug\audio_checksum_generator.Form1.resources
+C:\Users\Андрей\source\repos\audio checksum generator\audio checksum generator\obj\Debug\audio_checksum_generator.Properties.Resources.resources
+C:\Users\Андрей\source\repos\audio checksum generator\audio checksum generator\obj\Debug\audio checksum generator.csproj.GenerateResource.cache
+C:\Users\Андрей\source\repos\audio checksum generator\audio checksum generator\obj\Debug\audio checksum generator.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\source\repos\audio checksum generator\audio checksum generator\obj\Debug\audio checksum generator.csproj.CopyComplete
+C:\Users\Андрей\source\repos\audio checksum generator\audio checksum generator\obj\Debug\audio checksum generator.exe
+C:\Users\Андрей\source\repos\audio checksum generator\audio checksum generator\obj\Debug\audio checksum generator.pdb
